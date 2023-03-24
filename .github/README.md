@@ -12,7 +12,11 @@
 
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
 
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
+> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section. 
+
+
+https://dashboard.heroku.com/new?template=https://github.com/Agent8800/YukkiMusicBot
+
 
 ## ⚠️ Heroku / Okteto / Railway
 
